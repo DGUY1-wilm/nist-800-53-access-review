@@ -38,11 +38,7 @@ Rules, thresholds, SoD group pairs, and recommendations live in `rules.yaml`. Ch
 needs no code change. A new rule type = one new function in `access_review.py` + one `CHECKS` entry.
 
 ## Outputs
-- `output/findings.xlsx`: **Summary** (formula-driven counts and chart), **Findings** (filterable,
-  one row per finding with severity, NIST control and recommended action), **Reviewer Sign-off**
-  (Approve / Revoke / Exception dropdown, reviewer, date, comments).
-- `output/report.html`: one-page executive view with totals, findings by control family, top 10
-  riskiest accounts.
+![Executive report](screenshots/report.png)
 
 ## Design notes
 - Rules are data, not code, so a reviewer can tune them without touching Python.
