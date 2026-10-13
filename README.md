@@ -40,6 +40,12 @@ needs no code change. A new rule type = one new function in `access_review.py` +
 ## Outputs
 ![Executive report](screenshots/report.png)
 
+## Findings & Summary
+![Findings](screenshots/findings1.png)
+![Findings](screenshots/findings2.png)
+![Findings](screenshots/summary.png)
+
+
 ## Design notes
 - Rules are data, not code, so a reviewer can tune them without touching Python.
 - Risk score per account = sum of severity weights, used to rank the top 10.
