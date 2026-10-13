@@ -1,0 +1,201 @@
+username,display_name,department,job_title,manager,account_status,last_login,created_date,groups,privileged,privileged_justified_date,account_type,termination_date,expiry_date,interactive_login
+abrooks,Alex Brooks,HR,Benefits Analyst,s.okafor,Enabled,2026-09-23,2018-10-30,HR-Users,no,,employee,,,yes
+dfischer,Dmitri Fischer,IT,Network Engineer,p.nguyen,Enabled,2026-10-11,2024-09-07,IT-Users;Domain Admins,yes,2025-05-21,employee,,,yes
+aokafor4,Aisha Okafor,IT,Network Engineer,p.nguyen,Enabled,2026-09-19,2020-02-15,IT-Users,no,,employee,,,yes
+mevans,Marcus Evans,Finance,AP Specialist,d.kim,Enabled,2026-07-20,2021-11-08,Finance-Users,no,,employee,2026-07-23,,yes
+lsingh,Liam Singh,Operations,Contractor - Ops Analyst,m.alvarez,Enabled,2026-10-09,2024-11-11,Ops-Users,no,,contractor,,2026-08-04,yes
+freyes,Fatima Reyes,Finance,Financial Analyst,d.kim,Enabled,2026-09-16,2025-08-27,Finance-Users;Payments Submitter,no,,employee,,,yes
+mkhan2,Mei Khan,Legal,Compliance Analyst,l.fischer,Enabled,2026-10-02,2021-11-21,Legal-Users,no,,employee,2026-10-05,,yes
+eokafor,Elena Okafor,Legal,Paralegal,l.fischer,Enabled,2026-10-02,2023-08-23,Legal-Users,no,,employee,,,yes
+akim,Alex Kim,Sales,Account Executive,t.brooks,Enabled,2026-09-12,2020-04-08,Sales-Users,no,,employee,,,yes
+ghaddad,Grace Haddad,Operations,Logistics Coordinator,m.alvarez,Disabled,2026-06-11,2021-07-07,Ops-Users,no,,employee,2026-06-11,,yes
+mevans2,Mei Evans,IT,Systems Admin,p.nguyen,Enabled,2026-09-18,2025-01-26,IT-Users;Domain Admins,yes,2025-06-23,employee,,,yes
+svc-scanner-sync,Service scanner-sync,IT,Service account,p.nguyen,Enabled,2026-09-21,2023-02-14,Service-Accounts,no,,service,,,no
+pokafor,Priya Okafor,IT,DevOps Engineer,p.nguyen,Enabled,2026-03-03,2024-12-30,IT-Users,no,,employee,,,yes
+jhaddad,Jordan Haddad,Legal,Contractor - Paralegal,l.fischer,Enabled,2026-09-16,2026-08-29,Legal-Users,no,,contractor,,2026-12-30,yes
+svc-crm-sync,Service crm-sync,IT,Service account,p.nguyen,Enabled,2026-09-27,2023-02-21,Service-Accounts,no,,service,,,no
+gnguyen,Grace Nguyen,Finance,Financial Analyst,d.kim,Enabled,2026-10-04,2024-04-30,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+oreyes,Omar Reyes,HR,Benefits Analyst,s.okafor,Enabled,2026-10-04,2021-08-07,HR-Users,no,,employee,,,yes
+nreyes,Noah Reyes,Finance,Controller,d.kim,Enabled,2026-09-20,2022-02-11,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+mokafor,Mei Okafor,Operations,Ops Analyst,m.alvarez,Enabled,2026-08-03,2022-10-03,Ops-Users,no,,employee,2026-08-08,,yes
+svc-sqlreport,Service sqlreport,IT,Service account,p.nguyen,Enabled,2026-09-26,2024-07-31,Service-Accounts,no,,service,,,yes
+fkhan,Fatima Khan,IT,Network Engineer,,Enabled,2026-09-26,2023-06-22,IT-Users,no,,employee,,,yes
+rokafor,Ravi Okafor,Finance,Financial Analyst,d.kim,Enabled,2025-11-28,2019-10-27,Finance-Users,no,,employee,,,yes
+etanaka,Elena Tanaka,Operations,Project Manager,m.alvarez,Enabled,,2020-02-03,Ops-Users,no,,employee,,,yes
+oduarte2,Omar Duarte,Finance,Controller,d.kim,Enabled,2026-10-06,2022-04-15,Finance-Users;Payments Submitter,no,,employee,,,yes
+fsingh,Fatima Singh,Sales,Contractor - Account Executive,t.brooks,Enabled,2026-09-29,2026-07-30,Sales-Users,no,,contractor,,2027-02-05,yes
+dsingh,Dmitri Singh,HR,HR Generalist,s.okafor,Enabled,2026-09-20,2021-12-28,HR-Users,no,,employee,,,yes
+bpatel,Ben Patel,Sales,SDR,t.brooks,Enabled,2026-09-25,2024-06-03,Sales-Users,no,,employee,,,yes
+svc-patching,Service patching,IT,Service account,p.nguyen,Enabled,2026-09-25,2024-08-03,Service-Accounts,no,,service,,,no
+gduarte,Grace Duarte,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-20,2024-07-10,IT-Users,no,,employee,,,yes
+aokafor2,Alex Okafor,HR,Recruiter,,Enabled,2026-10-10,2018-12-17,HR-Users,no,,employee,,,yes
+mduarte,Mei Duarte,HR,Benefits Analyst,,Enabled,2026-10-07,2022-09-30,HR-Users,no,,employee,,,yes
+mreyes2,Marcus Reyes,IT,Systems Admin,,Enabled,2026-09-28,2025-08-26,IT-Users,no,,employee,,,yes
+svc-vpnauth,Service vpnauth,IT,Service account,p.nguyen,Enabled,2026-10-01,2025-12-14,Service-Accounts,no,,service,,,no
+nokafor,Noah Okafor,Legal,Counsel,l.fischer,Enabled,2026-10-05,2021-01-08,Legal-Users,no,,employee,,,yes
+wmurphy,Wei Murphy,Sales,Account Executive,t.brooks,Enabled,2025-12-01,2020-04-19,Sales-Users,no,,employee,,,yes
+ntanaka2,Noah Tanaka,HR,HR Generalist,s.okafor,Enabled,2026-09-23,2022-04-13,HR-Users,no,,employee,,,yes
+ghaddad2,Grace Haddad,Sales,Sales Engineer,t.brooks,Enabled,2026-09-21,2022-05-02,Sales-Users,no,,employee,,,yes
+aevans3,Aisha Evans,Finance,Accountant,d.kim,Enabled,2026-09-22,2023-12-12,Finance-Users;Payments Submitter,no,,employee,,,yes
+aevans2,Aisha Evans,Legal,Compliance Analyst,l.fischer,Enabled,2026-10-06,2024-11-16,Legal-Users,no,,employee,,,yes
+revans,Ravi Evans,IT,Contractor - Help Desk Analyst,p.nguyen,Enabled,2026-10-12,2026-07-22,IT-Users,no,,contractor,,2027-03-10,yes
+lmoreau,Liam Moreau,Sales,Account Executive,t.brooks,Enabled,2026-09-26,2023-07-27,Sales-Users,no,,employee,,,yes
+pevans,Priya Evans,Sales,Account Executive,t.brooks,Enabled,2026-10-07,2020-06-26,Sales-Users,no,,employee,,,yes
+gmurphy,Grace Murphy,Sales,SDR,t.brooks,Enabled,2026-09-16,2023-01-24,Sales-Users,no,,employee,,,yes
+pkhan2,Priya Khan,Sales,SDR,t.brooks,Enabled,2026-09-24,2021-10-10,Sales-Users,no,,employee,,,yes
+pmoreau,Priya Moreau,Legal,Paralegal,l.fischer,Enabled,2026-09-13,2021-05-15,Legal-Users,no,,employee,,,yes
+nbrooks,Noah Brooks,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-28,2022-03-28,IT-Users;Server Admins,yes,2026-09-14,employee,,,yes
+hpatel,Hannah Patel,Finance,Financial Analyst,,Enabled,2026-10-04,2025-03-20,Finance-Users,no,,employee,,,yes
+jtanaka,Jordan Tanaka,IT,Help Desk Analyst,p.nguyen,Enabled,2026-10-04,2024-03-29,IT-Users;Server Admins,yes,2026-06-05,employee,,,yes
+rduarte,Ravi Duarte,Operations,Contractor - Logistics Coordinator,m.alvarez,Enabled,2026-09-22,2025-05-17,Ops-Users,no,,contractor,,2026-09-08,yes
+onguyen,Omar Nguyen,Legal,Compliance Analyst,l.fischer,Enabled,2026-09-22,2023-07-23,Legal-Users,no,,employee,,,yes
+ntanaka,Noah Tanaka,Legal,Compliance Analyst,l.fischer,Enabled,2026-09-30,2023-07-24,Legal-Users,no,,employee,,,yes
+rfischer,Ravi Fischer,Finance,Accountant,d.kim,Enabled,2026-09-13,2020-06-23,Finance-Users,no,,employee,,,yes
+epatel,Elena Patel,IT,Contractor - DevOps Engineer,p.nguyen,Enabled,2026-10-06,2026-05-31,IT-Users,no,,contractor,,2027-02-27,yes
+jmoreau,Jordan Moreau,Legal,Paralegal,l.fischer,Enabled,2026-10-02,2022-03-14,Legal-Users,no,,employee,,,yes
+gnguyen2,Grace Nguyen,Finance,Financial Analyst,,Enabled,2026-09-29,2024-12-20,Finance-Users,no,,employee,,,yes
+lbrooks,Liam Brooks,Legal,Counsel,l.fischer,Enabled,2026-09-16,2020-09-20,Legal-Users,no,,employee,,,yes
+walvarez2,Wei Alvarez,Sales,Account Executive,t.brooks,Enabled,2026-10-11,2019-08-06,Sales-Users,no,,employee,,,yes
+rhaddad2,Ravi Haddad,HR,Recruiter,,Enabled,2026-09-23,2024-05-01,HR-Users,no,,employee,,,yes
+smoreau,Sofia Moreau,IT,Help Desk Analyst,p.nguyen,Enabled,2026-09-20,2022-09-03,IT-Users;Server Admins,yes,2026-06-09,employee,,,yes
+svc-webapp,Service webapp,IT,Service account,p.nguyen,Enabled,2026-09-22,2023-07-18,Service-Accounts,no,,service,,,yes
+aokafor3,Alex Okafor,Sales,Sales Engineer,t.brooks,Enabled,2026-09-13,2019-11-11,Sales-Users,no,,employee,,,yes
+svc-etl,Service etl,IT,Service account,p.nguyen,Enabled,2026-09-21,2022-11-24,Service-Accounts,no,,service,,,yes
+mreyes3,Marcus Reyes,Finance,Financial Analyst,d.kim,Enabled,2026-10-09,2021-01-22,Finance-Users,no,,employee,,,yes
+fnguyen2,Fatima Nguyen,Finance,Controller,d.kim,Enabled,2026-10-10,2021-03-16,Finance-Users,no,,employee,,,yes
+svc-printsvc,Service printsvc,IT,Service account,p.nguyen,Enabled,2026-09-30,2025-08-27,Service-Accounts,no,,service,,,yes
+dalvarez,Dmitri Alvarez,IT,Network Engineer,p.nguyen,Enabled,2026-09-14,2019-04-19,IT-Users,no,,employee,,,yes
+akhan2,Alex Khan,Legal,Counsel,l.fischer,Enabled,2026-10-01,2025-01-19,Legal-Users,no,,employee,,,yes
+svc-build,Service build,IT,Service account,p.nguyen,Enabled,2026-09-22,2025-06-26,Service-Accounts,no,,service,,,no
+gcarter,Grace Carter,Sales,Sales Engineer,t.brooks,Enabled,2026-09-17,2024-12-29,Sales-Users,no,,employee,,,yes
+svc-dbadmin,Service dbadmin,IT,Service account,p.nguyen,Enabled,2026-09-21,2023-10-11,Service-Accounts,no,,service,,,no
+rsingh,Ravi Singh,IT,Systems Admin,p.nguyen,Enabled,2026-09-14,2019-07-02,IT-Users;Domain Admins,yes,2026-01-06,employee,,,yes
+alarsen,Aisha Larsen,Sales,Sales Engineer,t.brooks,Enabled,2026-09-12,2022-04-13,Sales-Users,no,,employee,,,yes
+anguyen,Aisha Nguyen,Sales,Account Executive,t.brooks,Disabled,2026-02-24,2023-06-10,Sales-Users,no,,employee,2026-02-24,,yes
+tzhou,Tessa Zhou,Finance,Financial Analyst,d.kim,Enabled,2026-04-27,2019-07-16,Finance-Users,no,,employee,,,yes
+hduarte,Hannah Duarte,IT,Systems Admin,p.nguyen,Enabled,2026-09-15,2020-11-05,IT-Users;Domain Admins,yes,,employee,,,yes
+skhan,Sofia Khan,Sales,Sales Engineer,t.brooks,Enabled,2026-10-04,2022-11-12,Sales-Users,no,,employee,,,yes
+jsingh,Jordan Singh,Sales,Account Executive,t.brooks,Enabled,2026-10-12,2022-05-19,Sales-Users,no,,employee,,,yes
+hpatel3,Hannah Patel,Operations,Project Manager,m.alvarez,Enabled,2026-09-17,2024-08-27,Ops-Users,no,,employee,,,yes
+hkhan,Hannah Khan,Legal,Counsel,l.fischer,Enabled,2026-09-28,2020-07-20,Legal-Users,no,,employee,,,yes
+dokafor3,Dmitri Okafor,IT,Help Desk Analyst,p.nguyen,Enabled,2026-10-02,2019-07-20,IT-Users,no,,employee,,,yes
+svc-backup,Service backup,IT,Service account,p.nguyen,Enabled,2026-10-11,2025-11-09,Service-Accounts,no,,service,,,yes
+emurphy,Elena Murphy,IT,Contractor - Systems Admin,p.nguyen,Enabled,2026-10-09,2025-06-09,IT-Users,no,,contractor,,,yes
+dkim,Dmitri Kim,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-26,2021-04-02,IT-Users;Server Admins,yes,2026-07-08,employee,,,yes
+gmurphy2,Grace Murphy,Finance,AP Specialist,d.kim,Enabled,2026-10-12,2019-02-07,Finance-Users,no,,employee,,,yes
+mpatel,Mei Patel,Sales,Account Executive,t.brooks,Enabled,2026-10-05,2024-01-19,Sales-Users,no,,employee,,,yes
+aevans,Aisha Evans,Sales,Sales Engineer,t.brooks,Disabled,2026-03-01,2024-03-31,Sales-Users,no,,employee,2026-03-01,,yes
+dhaddad,Dmitri Haddad,IT,Systems Admin,p.nguyen,Enabled,2026-10-06,2022-05-21,IT-Users;Server Admins,yes,2026-09-01,employee,,,yes
+apatel,Aisha Patel,IT,Contractor - Help Desk Analyst,p.nguyen,Enabled,2026-09-26,2025-09-25,IT-Users,no,,contractor,,2026-09-29,yes
+wpatel,Wei Patel,Sales,Sales Engineer,t.brooks,Enabled,2026-10-10,2025-05-27,Sales-Users,no,,employee,,,yes
+ncarter,Noah Carter,Sales,Sales Engineer,t.brooks,Enabled,2026-09-22,2023-07-28,Sales-Users,no,,employee,,,yes
+mkim,Marcus Kim,IT,Help Desk Analyst,p.nguyen,Disabled,2026-10-01,2023-03-02,IT-Users,no,,employee,2026-10-01,,yes
+hbrooks,Hannah Brooks,IT,DevOps Engineer,p.nguyen,Enabled,2026-10-10,2019-08-07,IT-Users,no,,employee,,,yes
+mbrooks2,Marcus Brooks,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-27,2023-07-27,IT-Users,no,,employee,,,yes
+oduarte,Omar Duarte,IT,Contractor - Help Desk Analyst,p.nguyen,Enabled,2026-09-18,2026-03-30,IT-Users,no,,contractor,,2027-01-01,yes
+slarsen2,Sofia Larsen,HR,HR Generalist,s.okafor,Enabled,2026-10-09,2025-10-01,HR-Users,no,,employee,,,yes
+brossi,Ben Rossi,IT,Contractor - Help Desk Analyst,p.nguyen,Enabled,2026-09-22,2024-11-22,IT-Users,no,,contractor,,2026-08-19,yes
+bcarter2,Ben Carter,IT,Systems Admin,p.nguyen,Enabled,2026-09-25,2022-05-26,IT-Users,no,,employee,,,yes
+svc-mailrelay,Service mailrelay,IT,Service account,p.nguyen,Enabled,2026-10-10,2021-05-18,Service-Accounts,no,,service,,,no
+tkim,Tessa Kim,Sales,Sales Engineer,t.brooks,Disabled,2026-07-25,2025-09-26,Sales-Users,no,,employee,2026-07-25,,yes
+gsingh2,Grace Singh,Finance,Contractor - AP Specialist,d.kim,Enabled,2026-09-28,2026-03-10,Finance-Users;Payments Approver,no,,contractor,,2026-11-16,yes
+nfischer,Noah Fischer,Finance,Accountant,d.kim,Enabled,2026-09-19,2021-09-05,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+wmoreau,Wei Moreau,HR,HR Generalist,s.okafor,Enabled,2026-09-08,2025-02-13,HR-Users,no,,employee,2026-09-10,,yes
+rrossi,Ravi Rossi,Legal,Counsel,l.fischer,Disabled,2026-08-15,2021-05-12,Legal-Users,no,,employee,2026-08-15,,yes
+mnguyen,Marcus Nguyen,Legal,Compliance Analyst,l.fischer,Enabled,2026-07-13,2022-04-23,Legal-Users,no,,employee,2026-07-17,,yes
+efischer,Elena Fischer,Legal,Compliance Analyst,l.fischer,Enabled,2026-09-27,2022-07-09,Legal-Users,no,,employee,,,yes
+svc-siem,Service siem,IT,Service account,p.nguyen,Enabled,2026-09-24,2023-10-02,Service-Accounts,no,,service,,,no
+dkhan,Dmitri Khan,Sales,Sales Engineer,t.brooks,Enabled,2026-09-25,2021-05-11,Sales-Users,no,,employee,,,yes
+cfischer,Carlos Fischer,Legal,Counsel,l.fischer,Enabled,2026-09-25,2020-10-10,Legal-Users,no,,employee,,,yes
+mzhou,Mei Zhou,HR,Recruiter,s.okafor,Enabled,2026-02-27,2022-06-03,HR-Users,no,,employee,,,yes
+lalvarez2,Liam Alvarez,HR,Benefits Analyst,s.okafor,Enabled,2026-09-16,2020-01-29,HR-Users,no,,employee,,,yes
+rhaddad,Ravi Haddad,Finance,Accountant,d.kim,Enabled,2025-09-09,2023-04-12,Finance-Users;Payments Submitter,no,,employee,,,yes
+aalvarez,Alex Alvarez,Finance,Accountant,d.kim,Enabled,2026-09-22,2022-05-17,Finance-Users;Payments Approver,no,,employee,,,yes
+msingh,Mei Singh,IT,DevOps Engineer,p.nguyen,Enabled,2026-10-10,2020-05-29,IT-Users,no,,employee,,,yes
+svc-ldapbind,Service ldapbind,IT,Service account,p.nguyen,Enabled,2026-10-04,2025-12-09,Service-Accounts,no,,service,,,no
+wmoreau2,Wei Moreau,IT,Systems Admin,p.nguyen,Enabled,2026-09-18,2024-02-07,IT-Users;Domain Admins,yes,,employee,,,yes
+mtanaka2,Marcus Tanaka,IT,Help Desk Analyst,p.nguyen,Enabled,2026-09-28,2019-01-07,IT-Users,no,,employee,,,yes
+amurphy2,Aisha Murphy,Finance,AP Specialist,d.kim,Enabled,2026-09-26,2025-01-22,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+pcarter,Priya Carter,Operations,Project Manager,m.alvarez,Enabled,2026-09-25,2023-01-15,Ops-Users,no,,employee,,,yes
+wbrooks,Wei Brooks,Operations,Project Manager,m.alvarez,Enabled,2025-12-26,2023-09-04,Ops-Users,no,,employee,,,yes
+slarsen,Sofia Larsen,Sales,Sales Engineer,t.brooks,Enabled,2026-10-08,2019-08-22,Sales-Users,no,,employee,,,yes
+epatel2,Elena Patel,Finance,Accountant,d.kim,Enabled,2026-10-10,2022-10-21,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+generic.scanner,Generic Scanner,IT,Shared account,p.nguyen,Enabled,2026-09-19,2020-02-11,IT-Users,no,,shared,,,yes
+jnguyen3,Jordan Nguyen,HR,Recruiter,s.okafor,Enabled,2026-10-02,2025-03-08,HR-Users,no,,employee,,,yes
+sokafor,Sofia Okafor,IT,DevOps Engineer,p.nguyen,Enabled,2026-10-04,2023-01-09,IT-Users,no,,employee,,,yes
+jnguyen2,Jordan Nguyen,Finance,Controller,d.kim,Enabled,2026-09-12,2019-03-13,Finance-Users,no,,employee,,,yes
+jpatel,Jordan Patel,Legal,Counsel,l.fischer,Enabled,2026-09-29,2020-01-20,Legal-Users,no,,employee,,,yes
+fcarter,Fatima Carter,Finance,Financial Analyst,d.kim,Enabled,2026-09-29,2025-03-14,Finance-Users,no,,employee,,,yes
+mreyes,Marcus Reyes,HR,Contractor - Benefits Analyst,s.okafor,Enabled,2026-10-01,2025-09-25,HR-Users,no,,contractor,,2026-09-04,yes
+gzhou,Grace Zhou,Sales,Sales Engineer,t.brooks,Enabled,2026-10-08,2020-02-20,Sales-Users,no,,employee,,,yes
+revans2,Ravi Evans,Sales,Sales Engineer,t.brooks,Enabled,2026-10-07,2020-12-30,Sales-Users,no,,employee,,,yes
+areyes,Aisha Reyes,IT,Network Engineer,p.nguyen,Enabled,2026-09-18,2025-01-31,IT-Users,no,,employee,,,yes
+nrossi,Noah Rossi,Legal,Counsel,l.fischer,Enabled,2026-09-19,2019-11-27,Legal-Users,no,,employee,,,yes
+lrossi,Liam Rossi,Sales,Sales Engineer,t.brooks,Enabled,2026-10-09,2022-01-24,Sales-Users,no,,employee,,,yes
+hmoreau,Hannah Moreau,Legal,Compliance Analyst,l.fischer,Disabled,2026-02-16,2025-03-05,Legal-Users,no,,employee,2026-02-16,,yes
+admin,Admin,IT,Shared account,p.nguyen,Enabled,2026-09-16,2019-03-26,IT-Users,no,,shared,,,yes
+etanaka2,Elena Tanaka,HR,HR Generalist,s.okafor,Enabled,2026-09-27,2020-04-30,HR-Users,no,,employee,,,yes
+afischer,Aisha Fischer,Sales,Account Executive,t.brooks,Enabled,2026-09-29,2024-01-10,Sales-Users,no,,employee,,,yes
+lalvarez,Liam Alvarez,Operations,Contractor - Project Manager,m.alvarez,Enabled,2026-09-25,2025-03-03,Ops-Users,no,,contractor,,2026-07-27,yes
+drossi,Dmitri Rossi,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-26,2020-03-19,IT-Users,no,,employee,2026-09-27,,yes
+rbrooks,Ravi Brooks,IT,Contractor - Network Engineer,p.nguyen,Enabled,2026-09-23,2026-02-18,IT-Users,no,,contractor,,,yes
+mnguyen2,Mei Nguyen,Legal,Paralegal,l.fischer,Enabled,2026-10-12,2020-06-16,Legal-Users,no,,employee,,,yes
+fnguyen,Fatima Nguyen,HR,Recruiter,s.okafor,Enabled,2026-10-02,2024-03-12,HR-Users,no,,employee,,,yes
+bsingh,Ben Singh,Finance,Financial Analyst,d.kim,Enabled,2026-09-27,2021-02-07,Finance-Users,no,,employee,,,yes
+preyes,Priya Reyes,HR,HR Generalist,s.okafor,Enabled,2026-10-11,2022-07-31,HR-Users,no,,employee,,,yes
+mcarter,Marcus Carter,Legal,Paralegal,l.fischer,Enabled,2026-10-09,2020-06-14,Legal-Users,no,,employee,,,yes
+dbrooks,Dmitri Brooks,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-14,2020-04-26,IT-Users;Server Admins,yes,2026-08-22,employee,,,yes
+ftanaka,Fatima Tanaka,HR,Recruiter,s.okafor,Enabled,2026-09-14,2025-06-16,HR-Users,no,,employee,,,yes
+wkim,Wei Kim,Finance,Controller,d.kim,Enabled,2026-09-25,2023-04-25,Finance-Users;Payments Submitter,no,,employee,,,yes
+jrossi,Jordan Rossi,HR,Benefits Analyst,s.okafor,Enabled,,2024-12-20,HR-Users,no,,employee,,,yes
+nalvarez,Noah Alvarez,HR,Benefits Analyst,s.okafor,Enabled,2026-01-28,2019-05-19,HR-Users,no,,employee,,,yes
+nalvarez2,Noah Alvarez,Operations,Contractor - Ops Analyst,m.alvarez,Enabled,2026-09-13,2026-01-21,Ops-Users,no,,contractor,,2027-03-25,yes
+mrossi,Mei Rossi,Legal,Counsel,l.fischer,Enabled,2026-09-19,2024-03-15,Legal-Users,no,,employee,,,yes
+spatel,Sofia Patel,Finance,Financial Analyst,d.kim,Enabled,2026-09-14,2025-07-22,Finance-Users,no,,employee,,,yes
+smurphy,Sofia Murphy,Finance,Accountant,d.kim,Enabled,2026-09-12,2023-08-03,Finance-Users,no,,employee,,,yes
+guest.wifi,Guest Wifi,IT,Shared account,p.nguyen,Enabled,2026-10-11,2024-04-15,IT-Users,no,,shared,,,yes
+mrossi2,Mei Rossi,Legal,Counsel,l.fischer,Enabled,2026-09-13,2020-12-16,Legal-Users,no,,employee,,,yes
+fokafor,Fatima Okafor,IT,Systems Admin,p.nguyen,Enabled,2026-10-08,2019-11-27,IT-Users,no,,employee,,,yes
+mkim3,Mei Kim,Sales,Account Executive,t.brooks,Enabled,2026-10-08,2021-02-08,Sales-Users,no,,employee,,,yes
+dlarsen,Dmitri Larsen,IT,Help Desk Analyst,p.nguyen,Enabled,2026-10-04,2022-06-22,IT-Users,no,,employee,,,yes
+anguyen2,Aisha Nguyen,IT,DevOps Engineer,p.nguyen,Enabled,2026-10-11,2020-07-30,IT-Users,no,,employee,,,yes
+olarsen,Omar Larsen,Finance,Controller,d.kim,Enabled,2026-10-04,2021-06-11,Finance-Users;Payments Submitter,no,,employee,,,yes
+svc-monitor,Service monitor,IT,Service account,p.nguyen,Enabled,2026-09-20,2024-09-02,Service-Accounts,no,,service,,,yes
+stanaka,Sofia Tanaka,IT,DevOps Engineer,p.nguyen,Enabled,2026-10-12,2021-03-05,IT-Users,no,,employee,,,yes
+mkhan3,Marcus Khan,Finance,Financial Analyst,d.kim,Enabled,2026-09-30,2022-11-09,Finance-Users,no,,employee,,,yes
+azhou,Aisha Zhou,Sales,Account Executive,t.brooks,Enabled,2026-10-01,2020-12-24,Sales-Users,no,,employee,,,yes
+pkim,Priya Kim,Legal,Counsel,l.fischer,Enabled,2026-09-28,2022-04-05,Legal-Users,no,,employee,,,yes
+jtanaka2,Jordan Tanaka,IT,Network Engineer,p.nguyen,Enabled,2026-10-07,2019-12-09,IT-Users,no,,employee,,,yes
+ckhan,Carlos Khan,Sales,Contractor - Account Executive,t.brooks,Enabled,2026-10-08,2025-03-08,Sales-Users,no,,contractor,,2026-08-20,yes
+svc-hrfeed,Service hrfeed,IT,Service account,p.nguyen,Enabled,2026-09-20,2025-09-15,Service-Accounts,no,,service,,,no
+dokafor,Dmitri Okafor,IT,Network Engineer,p.nguyen,Enabled,2026-01-10,2020-03-25,IT-Users,no,,employee,,,yes
+hpatel2,Hannah Patel,Sales,SDR,t.brooks,Enabled,2026-10-05,2025-06-15,Sales-Users,no,,employee,,,yes
+mtanaka,Mei Tanaka,IT,Systems Admin,p.nguyen,Enabled,2026-09-14,2022-06-28,IT-Users,no,,employee,,,yes
+walvarez,Wei Alvarez,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-23,2024-06-07,IT-Users;Domain Admins,yes,,employee,,,yes
+amurphy,Alex Murphy,Finance,Controller,d.kim,Enabled,2026-09-20,2025-07-30,Finance-Users;Payments Submitter;Payments Approver,no,,employee,,,yes
+bcarter,Ben Carter,Operations,Contractor - Logistics Coordinator,m.alvarez,Enabled,2026-09-13,2026-07-31,Ops-Users,no,,contractor,,2026-11-26,yes
+gsingh,Grace Singh,Legal,Contractor - Compliance Analyst,l.fischer,Enabled,2026-10-07,2026-03-15,Legal-Users,no,,contractor,,2026-09-06,yes
+shared.helpdesk,Shared Helpdesk,IT,Shared account,p.nguyen,Enabled,2026-10-03,2018-11-04,IT-Users,no,,shared,,,yes
+hevans3,Hannah Evans,Legal,Paralegal,l.fischer,Enabled,2026-09-21,2019-11-19,Legal-Users,no,,employee,,,yes
+aokafor,Aisha Okafor,Sales,Contractor - SDR,t.brooks,Enabled,2026-10-07,2026-07-09,Sales-Users,no,,contractor,,2026-11-03,yes
+fokafor2,Fatima Okafor,Operations,Logistics Coordinator,m.alvarez,Enabled,2026-09-14,2022-12-30,Ops-Users,no,,employee,,,yes
+balvarez,Ben Alvarez,Finance,AP Specialist,d.kim,Enabled,2026-09-23,2019-06-01,Finance-Users,no,,employee,,,yes
+mkhan,Mei Khan,Legal,Compliance Analyst,l.fischer,Enabled,2025-10-15,2024-06-16,Legal-Users,no,,employee,,,yes
+hevans,Hannah Evans,IT,DevOps Engineer,p.nguyen,Enabled,2026-09-26,2023-01-02,IT-Users;Server Admins,yes,2026-05-22,employee,,,yes
+onguyen2,Omar Nguyen,Sales,Account Executive,t.brooks,Enabled,2026-10-06,2020-03-11,Sales-Users,no,,employee,,,yes
+hhaddad,Hannah Haddad,IT,Help Desk Analyst,p.nguyen,Enabled,2026-09-25,2024-01-30,IT-Users;Domain Admins,yes,,employee,,,yes
+nlarsen,Noah Larsen,Finance,Financial Analyst,d.kim,Enabled,2026-09-22,2022-07-28,Finance-Users,no,,employee,,,yes
+rnguyen,Ravi Nguyen,IT,Network Engineer,p.nguyen,Enabled,2026-09-21,2019-12-20,IT-Users;Domain Admins,yes,2025-05-09,employee,,,yes
+gokafor,Grace Okafor,Finance,Accountant,d.kim,Enabled,2026-09-25,2023-06-16,Finance-Users,no,,employee,,,yes
+asingh,Alex Singh,IT,Systems Admin,p.nguyen,Enabled,2026-09-27,2022-10-08,IT-Users,no,,employee,,,yes
+eokafor2,Elena Okafor,Sales,Sales Engineer,t.brooks,Enabled,2026-09-24,2021-09-10,Sales-Users,no,,employee,,,yes
+gevans,Grace Evans,IT,Help Desk Analyst,p.nguyen,Enabled,2026-09-16,2020-10-05,IT-Users;Server Admins,yes,2026-08-28,employee,,,yes
+lreyes,Liam Reyes,HR,Recruiter,s.okafor,Enabled,2026-09-12,2018-11-11,HR-Users,no,,employee,,,yes
+tlarsen,Tessa Larsen,IT,Contractor - Help Desk Analyst,p.nguyen,Enabled,2026-09-23,2026-01-13,IT-Users,no,,contractor,,2027-01-24,yes
+gfischer,Grace Fischer,HR,Recruiter,s.okafor,Enabled,2026-10-05,2023-09-13,HR-Users,no,,employee,,,yes
+lkhan,Liam Khan,Sales,Sales Engineer,t.brooks,Enabled,2026-10-10,2025-03-25,Sales-Users,no,,employee,,,yes
+enguyen,Elena Nguyen,IT,Help Desk Analyst,p.nguyen,Enabled,2026-09-23,2019-03-30,IT-Users,no,,employee,,,yes
+rtanaka,Ravi Tanaka,Sales,SDR,t.brooks,Disabled,2026-08-04,2022-03-17,Sales-Users,no,,employee,2026-08-04,,yes
+creyes,Carlos Reyes,Finance,AP Specialist,d.kim,Enabled,2026-10-05,2023-06-25,Finance-Users,no,,employee,,,yes
+preyes2,Priya Reyes,Finance,Accountant,d.kim,Enabled,2026-09-14,2018-12-28,Finance-Users;Payments Submitter,no,,employee,,,yes
+hlarsen,Hannah Larsen,IT,Systems Admin,p.nguyen,Enabled,2026-10-03,2021-07-15,IT-Users,no,,employee,,,yes
