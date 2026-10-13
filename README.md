@@ -54,8 +54,4 @@ Downloadable at: [findings.xlsx](output/findings.xlsx)
 - One account can trigger several rules; a terminated user who is also idle shows up under R01 and R02.
 - Limits: only as good as the export. Group names, SoD pairs and thresholds must be tailored to the organization.
 
-## What I'd do next
-- Pull accounts live from Microsoft Graph (Entra ID) instead of a CSV.
-- Add sign-in log data to separate "stale" from "never used".
-- Track findings across quarters to show remediation trends and repeat offenders.
-- Add an exceptions register so approved exceptions stop reappearing.
+
