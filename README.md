@@ -41,7 +41,7 @@ needs no code change. A new rule type = one new function in `access_review.py` +
 ![Executive report](screenshots/report.png)
 
 ## Findings & Summary
-Downloadable at: [![Download report.html](https://img.shields.io/badge/Download-report.html-1F3864?style=for-the-badge)](output/report.html?raw=true)
+Downloadable at: [findings.xlsx](output/findings.xlsx)
 ![Findings](screenshots/findings1.png)
 ![Findings](screenshots/findings2.png)
 ![Findings](screenshots/summary.png)
