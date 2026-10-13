@@ -1,5 +1,7 @@
 # NIST 800-53 User Access Review Automation
 
+Built by Daniel Guy with assistance from Claude (Anthropic). All sample data is synthetic.
+
 A Python tool that takes a user-access export, flags risky accounts, maps every finding to a
 NIST SP 800-53 Rev. 5 control, and produces reviewer-ready evidence. It automates the part of a
 quarterly user access review (UAR) that is usually done by hand in spreadsheets.
