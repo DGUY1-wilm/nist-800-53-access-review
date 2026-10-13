@@ -1,0 +1,81 @@
+# Each rule = one check, one severity, one or more NIST SP 800-53 Rev. 5 controls.
+# To tune a rule (e.g. change the inactivity threshold) edit "params" - no code changes needed.
+# "check" must match a function name registered in access_review.py (CHECKS dict).
+
+severity_weights:       # used to rank the riskiest accounts
+  Critical: 10
+  High: 7
+  Medium: 4
+  Low: 1
+
+rules:
+  - id: R01
+    name: Inactive account still enabled
+    check: inactive_enabled
+    severity: Medium
+    nist: ["AC-2(3)"]
+    params:
+      days: 90
+      exclude_types: [service, shared]
+    recommendation: Disable the account. Delete after the retention period unless the owner objects.
+
+  - id: R02
+    name: Terminated user still has an active account
+    check: terminated_active
+    severity: Critical
+    nist: ["AC-2", "PS-4"]
+    params: {}
+    recommendation: Disable immediately, revoke sessions and tokens, and investigate any logins after the termination date.
+
+  - id: R03
+    name: Contractor account past expiry (or no expiry set)
+    check: contractor_expired
+    severity: High
+    nist: ["AC-2(2)"]
+    params: {}
+    recommendation: Disable the account. Re-enable only with a new sponsor approval and a hard end date.
+
+  - id: R04
+    name: Privileged access without recent justification
+    check: privileged_unjustified
+    severity: High
+    nist: ["AC-6", "AC-6(7)"]
+    params:
+      max_age_days: 180
+    recommendation: Ask the manager to re-justify the privilege. Remove it if not re-approved.
+
+  - id: R05
+    name: Segregation-of-duties conflict
+    check: sod_conflict
+    severity: High
+    nist: ["AC-5"]
+    params:
+      conflicts:
+        - ["Payments Submitter", "Payments Approver"]
+        - ["Vendor Master Editor", "Payments Approver"]
+    recommendation: Remove one of the conflicting groups, or document a compensating control as an exception.
+
+  - id: R06
+    name: Account has no manager or owner
+    check: no_manager
+    severity: Medium
+    nist: ["AC-2(b)"]
+    params: {}
+    recommendation: Assign an accountable manager or owner. Disable the account if none can be found.
+
+  - id: R07
+    name: Service account allows interactive login
+    check: service_interactive
+    severity: High
+    nist: ["AC-2", "IA-4"]
+    params: {}
+    recommendation: Deny interactive logon for the account and store its credential in a vault.
+
+  - id: R08
+    name: Shared or generic account
+    check: shared_account
+    severity: Medium
+    nist: ["IA-2", "AC-2(9)"]
+    params:
+      name_patterns: ["^(admin|administrator|shared|generic|guest|test)([._-].*)?$"]
+    recommendation: Replace with named individual accounts, or restrict and log the account and record an approved exception.
