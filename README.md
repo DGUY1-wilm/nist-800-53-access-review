@@ -38,6 +38,7 @@ Rules, thresholds, SoD group pairs, and recommendations live in `rules.yaml`. Ch
 needs no code change. A new rule type = one new function in `access_review.py` + one `CHECKS` entry.
 
 ## Outputs
+Downloadable at: [report.html](output/report.html)
 ![Executive report](screenshots/report.png)
 
 ## Findings & Summary
